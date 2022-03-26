@@ -8,9 +8,9 @@ Current features of Economy Stealer:
 
 ```bash
 ✔️ Collect users daily income
-✔️ Give money to you or any user by providing user id in config
+✔️ Give money to you or any user
 ✔️ Withdraw all money from users bank so you can send it
-✔️ Deposit all money to users bank so you dont get robbed
+✔️ Deposit all money to users bank so you do not get robbed
 ```
 ## Installation
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 To run script you need to open cmd/terminal and write following command
 
 ```python
-python es.py <method>
+python es.py
 ```
 
 ## Supported OS
