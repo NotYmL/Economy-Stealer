@@ -1,4 +1,4 @@
-# Economy Stealer
+# Economy Stealer BETTER
 
 Economy Stealer is an open-source script written in python for stealing money in discord economy. For example you have someones token and you see that person has money in economy you can steal their money. It works with probably every bot but I tested it only on UnbelievaBoat and it works perfectly!
 
